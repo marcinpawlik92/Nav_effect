@@ -1,0 +1,44 @@
+body {
+  margin: 0px;
+}
+nav {
+  margin-top: 40px;
+  padding: 24px;
+  text-align: center;
+  font-family: 'Dancing Script', Georgia, Times, serif;
+  box-shadow: 8px 7px 8px rgba(0, 0, 0, 0.5);
+    
+}
+#nav-1 {
+  background: #3134B5;
+}
+.link-1 {
+  transition: 0.3s ease;
+  background: #3134B5;
+  color: #ffffff;
+  font-size: 24px;
+  text-decoration: none;
+  border-top: 4px solid #3134B5;
+  border-bottom: 4px solid #3134B5;
+  padding: 20px 0;
+  margin: 0 20px;
+}
+.link-1:hover {
+  border-top: 3px solid #ffffff;
+  border-bottom: 3px solid #ffffff;
+  padding: 6px 0; 
+}
+.fa-home{
+    margin-right: -1.5%;
+    color: white;
+}
+.fa-address-card{
+    margin-right: -1.5%;
+    color: white;
+}.fa-envelope{
+    margin-right: -1.5%;
+    color: white;
+}.fa-shopping-basket{
+    margin-right: -1.5%;
+    color: white;
+}
